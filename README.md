@@ -28,6 +28,3 @@ The first step to recreating results is to install all required technologies and
 
 ## Conclusion
 By utilizing a Universal Sentence Encoder as well as a Multi-Layer Perceptron model, we can predict transaction category with a 79% accuracy. A flowchart of the analytical process can be seen below.
-
-
-![Ben_Gonzalez_Wells_Fargo_CAC_2022](https://user-images.githubusercontent.com/87507821/180665376-35cb90b5-ce23-4cde-8bc3-30f129f76f17.png)
