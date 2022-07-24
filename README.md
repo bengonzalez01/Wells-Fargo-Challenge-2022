@@ -6,3 +6,16 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Conclusion](#Conclusion)
+
+
+## General info
+placeholder
+
+## Technologies
+placeholder
+
+## Setup
+placeholder
+
+## Conclusion
+placeholder
