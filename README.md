@@ -27,4 +27,4 @@ Project is created with following technologies and packages:
 The first step to recreating results is to install all required technologies and packages in the [Technologies](#technologies) section. Verify that all three files in this repository are in the same local folder and then all of the cells in the notebook (.ipynb) file can be run in order to see results.
 
 ## Conclusion
-By utilizing a Universal Sentence Encoder as well as a Multi-Layer Perceptron model, we can predict transaction category with a 79% accuracy. A flowchart of the analytical process can be seen below.
+By utilizing a Universal Sentence Encoder as well as a Multi-Layer Perceptron model, we can predict transaction category with a 79% accuracy.
